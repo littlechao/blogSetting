@@ -154,3 +154,5 @@ var arrayElements = Array.from(elements); // 这是另一种转换 NodeList 到 
 var list = [1,2,3];
 console.log(list.sort(function() { Math.random() - 0.5 })); // [2,1,3]
 ```
+
+vscode atom one dark
